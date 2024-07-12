@@ -14,37 +14,18 @@ akshaykumarp1996@gmail.com
 
 
 
-# Hi, I'm Akshay Kumar! 👋
-
-I'm a passionate Data Analyst with expertise in turning data into actionable insights. Here are some of the skills and tools I work with:
 
 ## Skills
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="40" height="40" style="border-radius:50%">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40" style="border-radius:50%">
-  <img src="# Hi, I'm Akshay Kumar! 👋
-
-I'm a passionate Data Analyst with expertise in turning data into actionable insights. Here are some of the skills and tools I work with:
-
-## Skills
-<p align="left">
-  <img src="https://raw.githubusercontent.com/username/repository/branch/assets/excel-logo.png" alt="Excel" width="40" height="40" style="border-radius:50%">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40" style="border-radius:50%">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="40" height="40" style="border-radius:50"alt="SQL" width="40" height="40" style="border-radius:50%">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40" style="border-radius:50%">
+  <img src="[https://raw.githubusercontent.com/username/repository/branch/assets/excel-logo.png](https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg)" alt="Excel" width="40" height="40" style="border-radius:50%">
+  <img src="[https://raw.githubusercontent.com/username/repository/branch/assets/powerbi-logo.png](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg)" alt="Power BI" width="40" height="40" style="border-radius:50%">
+  <img src="https://raw.githubusercontent.com/username/repository/branch/assets/sql-logo.png" alt="SQL" width="40" height="40" style="border-radius:50%">
+  <img src="https://raw.githubusercontent.com/username/repository/branch/assets/python-logo.png" alt="Python" width="40" height="40" style="border-radius:50%">
 </p>
 
-## Connect with me
-<p align="left">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/your-profile">
-    <img src="https://raw.githubusercontent.com/username/repository/branch/assets/linkedin-logo.png" alt="LinkedIn" width="40" height="40" style="border-radius:50%">
-  </a>
-  <!-- X (formerly Twitter) -->
-  <a href="https://twitter.com/your-profile">
-    <img src="https://raw.githubusercontent.com/username/repository/branch/assets/twitter-logo.png" alt="X" width="40" height="40" style="border-radius:50%">
-  </a>
-</p>
+
+
+
 
 
 
