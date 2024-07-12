@@ -27,6 +27,20 @@ akshaykumarp1996@gmail.com
 
 
 
+## Connect with me
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/kashyupakshay/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="146">
+  </a>
+  <!-- X (formerly Twitter) -->
+  <a href="https://twitter.com/kashyupakshay">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" width="146">
+  </a>
+</p>
+
+
+
 
 
 
