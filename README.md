@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Data Analysis Projects...
 - 💬 Ask me about Data ...
 - 📫 How to reach me: <br>
-akshaykumarp1996@gmail.com
+kashyupakshay@gmail.com
 
 # Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/kashyupakshay/)
