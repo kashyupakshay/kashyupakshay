@@ -12,29 +12,32 @@ akshaykumarp1996@gmail.com
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashyupakshay/)
 [![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kashyupakshay)
 
-# Welcome to My GitHub Profile!
 
-Hello! I'm Swapnil Alaspure, a passionate Data Analyst with a knack for turning data into actionable insights.
 
-## 📫 How to Reach Me:
-- Email: [patilswapnil08421@gmail.com](mailto:patilswapnil08421@gmail.com)
-- LinkedIn: [Explore my experiences](https://www.linkedin.com/in/swapnilalaspure/)
+# Hi, I'm Akshay Kumar! 👋
 
-## Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/swapnilalaspure/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername/)
+I'm a passionate Data Analyst with expertise in turning data into actionable insights. Here are some of the skills and tools I work with:
 
-## Languages and Tools:
-![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat-square&logo=mysql)
-![Power BI](https://img.shields.io/badge/-Power%20BI-000?style=flat-square&logo=powerbi)
-![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python)
-![scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-000?style=flat-square&logo=scikit-learn)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?style=flat-square&logo=matplotlib)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?style=flat-square&logo=tensorflow)
+## Skills
+<p align="left">
+  <img src="https://raw.githubusercontent.com/username/repository/branch/assets/excel-logo.png" alt="Excel" width="40" height="40" style="border-radius:50%">
+  <img src="https://raw.githubusercontent.com/username/repository/branch/assets/powerbi-logo.png" alt="Power BI" width="40" height="40" style="border-radius:50%">
+  <img src="https://raw.githubusercontent.com/username/repository/branch/assets/sql-logo.png" alt="SQL" width="40" height="40" style="border-radius:50%">
+  <img src="https://raw.githubusercontent.com/username/repository/branch/assets/python-logo.png" alt="Python" width="40" height="40" style="border-radius:50%">
+</p>
 
----
+## Connect with me
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://raw.githubusercontent.com/username/repository/branch/assets/linkedin-logo.png" alt="LinkedIn" width="40" height="40" style="border-radius:50%">
+  </a>
+  <!-- X (formerly Twitter) -->
+  <a href="https://twitter.com/your-profile">
+    <img src="https://raw.githubusercontent.com/username/repository/branch/assets/twitter-logo.png" alt="X" width="40" height="40" style="border-radius:50%">
+  </a>
+</p>
 
-Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
 
 
 
