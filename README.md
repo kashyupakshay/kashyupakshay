@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning Python and Power BI...
 - 👯 I’m looking to collaborate on Data Analysis Projects...
 - 💬 Ask me about Data ...
-- 📫 How to reach me: <br>
-kashyupakshay@gmail.com
+- 📫 How to reach me:akshaykumarp1996@gmail.com
 
 # Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/kashyupakshay/)
