@@ -21,8 +21,7 @@ I'm a passionate Data Analyst with expertise in turning data into actionable ins
 ## Skills
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="40" height="40" style="border-radius:50%">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg
-" alt="Power BI" width="40" height="40" style="border-radius:50%">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40" style="border-radius:50%">
   <img src="https://raw.githubusercontent.com/username/repository/branch/assets/sql-logo.png" alt="SQL" width="40" height="40" style="border-radius:50%">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40" style="border-radius:50%">
 </p>
