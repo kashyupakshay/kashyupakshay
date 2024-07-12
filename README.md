@@ -6,7 +6,7 @@
 - 💬 Ask me about Data ...
 - 📫 How to reach me: ...
 akshaykumarp1996@gmail.com
-Please connect me https://www.linkedin.com/in/kashyupakshay
+
 
 
 
