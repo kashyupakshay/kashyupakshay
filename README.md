@@ -8,7 +8,13 @@
 akshaykumarp1996@gmail.com
 
 # Connect with me
-
+ <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://raw.githubusercontent.com/username/repository/branch/assets/linkedin-blue-logo.svg" alt="LinkedIn" width="40" height="40" style="border-radius:50%">
+  </a> <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://raw.githubusercontent.com/username/repository/branch/assets/linkedin-blue-logo.svg" alt="LinkedIn" width="40" height="40" style="border-radius:50%">
+  </a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashyupakshay/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/kashyupakshay)
 
