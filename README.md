@@ -8,8 +8,9 @@
 akshaykumarp1996@gmail.com
 
 # Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashyupakshay/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/kashyupakshay)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/kashyupakshay/)
+[![X (formerly Twitter)](https://img.shields.io/badge/X-Profile-blue)](https://www.x.com/kashyupakshay/)
+
 
 
 
@@ -25,8 +26,6 @@ akshaykumarp1996@gmail.com
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40" style="border-radius:50%">
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/your_linkedin_username/)
-[![X (formerly Twitter)](https://img.shields.io/badge/X-Profile-blue)](https://www.x.com/your_x_username/)
 
 
 
