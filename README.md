@@ -25,7 +25,9 @@ akshaykumarp1996@gmail.com
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40" style="border-radius:50%">
 </p>
 
-v
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/your_linkedin_username/)
+[![X (formerly Twitter)](https://img.shields.io/badge/X-Profile-blue)](https://www.x.com/your_x_username/)
+
 
 
 
